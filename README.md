@@ -9,7 +9,13 @@ This is my final frt project
 ![image](https://github.com/NehaKumari-tech/frtproject/assets/140386551/d6129bef-722e-43ba-adbf-262d99373bf9) 
 
 ## CONTACT 
-![image](https://github.com/NehaKumari-tech/frtproject/assets/140386551/4db95182-04dc-41c8-ae10-2542691226be)
+![image](https://github.com/NehaKumari-tech/frtproject/assets/140386551/4db95182-04dc-41c8-ae10-2542691226be) 
+
+## azure portal screen shot 
+![image](https://github.com/NehaKumari-tech/frtproject/assets/140386551/39e50743-76d9-43a2-85fd-f222aa0b95b1) 
+
+## my youtube video link . 
+
 
 
 
